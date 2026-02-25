@@ -63,6 +63,10 @@
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 1 | 41 |
+
 Increases underwater mining speed to match above-water speed.
 
 ---
@@ -80,6 +84,14 @@ Increases underwater mining speed to match above-water speed.
 | Supported Items | Weapons (primary: sword) |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 5 | 25 |
+| 2 | 13 | 33 |
+| 3 | 21 | 41 |
+| 4 | 29 | 49 |
+| 5 | 37 | 57 |
 
 Deals extra damage (+2.5 per level) to arthropods (spiders, cave spiders, bees, silverfish, endermites) and applies Slowness IV to them on hit.
 
@@ -99,6 +111,10 @@ Deals extra damage (+2.5 per level) to arthropods (spiders, cave spiders, bees, 
 | Treasure | Yes |
 | Curse | Yes |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 25 | 50 |
+
 Prevents the player from removing the cursed armor piece in survival mode.
 
 ---
@@ -116,6 +132,13 @@ Prevents the player from removing the cursed armor piece in survival mode.
 | Supported Items | Armor |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 5 | 13 |
+| 2 | 13 | 21 |
+| 3 | 21 | 29 |
+| 4 | 29 | 37 |
 
 Reduces explosion damage and knockback. Mutually exclusive with other protection enchantments.
 
@@ -135,6 +158,13 @@ Reduces explosion damage and knockback. Mutually exclusive with other protection
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 15 | 65 |
+| 2 | 24 | 74 |
+| 3 | 33 | 83 |
+| 4 | 42 | 92 |
+
 Reduces the effectiveness of the target's armor when attacking with a mace (-15% per level). Mutually exclusive with other damage enchantments.
 
 ---
@@ -152,6 +182,10 @@ Reduces the effectiveness of the target's armor when attacking with a mace (-15%
 | Supported Items | Trident |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 25 | 50 |
 
 Summons a lightning bolt when the trident hits an entity during a thunderstorm and the target is exposed to the sky.
 
@@ -171,6 +205,14 @@ Summons a lightning bolt when the trident hits an entity during a thunderstorm a
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 5 | 25 |
+| 2 | 13 | 33 |
+| 3 | 21 | 41 |
+| 4 | 29 | 49 |
+| 5 | 37 | 57 |
+
 Increases mace smash damage based on fall distance (+0.5 per level per block fallen). Mutually exclusive with other damage enchantments.
 
 ---
@@ -188,6 +230,12 @@ Increases mace smash damage based on fall distance (+0.5 per level per block fal
 | Supported Items | Boots |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 10 | 25 |
+| 2 | 20 | 35 |
+| 3 | 30 | 45 |
 
 Increases movement speed while underwater. Mutually exclusive with Frost Walker.
 
@@ -207,6 +255,14 @@ Increases movement speed while underwater. Mutually exclusive with Frost Walker.
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 1 | 51 |
+| 2 | 11 | 61 |
+| 3 | 21 | 71 |
+| 4 | 31 | 81 |
+| 5 | 41 | 91 |
+
 Increases mining speed. The bonus scales as level² + 1.
 
 ---
@@ -224,6 +280,13 @@ Increases mining speed. The bonus scales as level² + 1.
 | Supported Items | Boots |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 5 | 11 |
+| 2 | 11 | 17 |
+| 3 | 17 | 23 |
+| 4 | 23 | 29 |
 
 Reduces fall damage taken (+3 protection points per level).
 
@@ -243,6 +306,11 @@ Reduces fall damage taken (+3 protection points per level).
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 10 | 60 |
+| 2 | 30 | 80 |
+
 Sets the target on fire for 4 seconds per level on melee hit.
 
 ---
@@ -260,6 +328,13 @@ Sets the target on fire for 4 seconds per level on melee hit.
 | Supported Items | Armor |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 10 | 18 |
+| 2 | 18 | 26 |
+| 3 | 26 | 34 |
+| 4 | 34 | 42 |
 
 Reduces fire damage and shortens burn duration (-15% per level). Mutually exclusive with other protection enchantments.
 
@@ -279,6 +354,10 @@ Reduces fire damage and shortens burn duration (-15% per level). Mutually exclus
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 20 | 50 |
+
 Arrows fired are set ablaze, igniting targets they hit.
 
 ---
@@ -296,6 +375,12 @@ Arrows fired are set ablaze, igniting targets they hit.
 | Supported Items | Mining loot tools |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 15 | 65 |
+| 2 | 24 | 74 |
+| 3 | 33 | 83 |
 
 Increases the drop count from blocks such as ores, crops, and gravel. Mutually exclusive with Silk Touch.
 
@@ -315,6 +400,11 @@ Increases the drop count from blocks such as ores, crops, and gravel. Mutually e
 | Treasure | Yes |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 10 | 25 |
+| 2 | 20 | 35 |
+
 Turns water into frosted ice when walked over (radius scales with level) and grants immunity to damage from magma blocks. Mutually exclusive with Depth Strider.
 
 ---
@@ -332,6 +422,14 @@ Turns water into frosted ice when walked over (radius scales with level) and gra
 | Supported Items | Trident |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 1 | 21 |
+| 2 | 9 | 29 |
+| 3 | 17 | 37 |
+| 4 | 25 | 45 |
+| 5 | 33 | 53 |
 
 Deals extra damage (+2.5 per level) to aquatic mobs. Mutually exclusive with other damage enchantments.
 
@@ -351,6 +449,10 @@ Deals extra damage (+2.5 per level) to aquatic mobs. Mutually exclusive with oth
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 20 | 50 |
+
 Firing the bow does not consume regular arrows (tipped and spectral arrows are still consumed). Mutually exclusive with Mending.
 
 ---
@@ -368,6 +470,11 @@ Firing the bow does not consume regular arrows (tipped and spectral arrows are s
 | Supported Items | Sword |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 5 | 55 |
+| 2 | 25 | 75 |
 
 Increases the knockback dealt on melee hits.
 
@@ -387,6 +494,12 @@ Increases the knockback dealt on melee hits.
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 15 | 65 |
+| 2 | 24 | 74 |
+| 3 | 33 | 83 |
+
 Increases the quantity and chance of rare drops from killed mobs, and slightly increases equipment drop chances (+1% per level).
 
 ---
@@ -404,6 +517,12 @@ Increases the quantity and chance of rare drops from killed mobs, and slightly i
 | Supported Items | Trident |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 12 | 50 |
+| 2 | 19 | 50 |
+| 3 | 26 | 50 |
 
 The thrown trident automatically returns to the player after hitting. Higher levels increase the return speed.
 
@@ -423,6 +542,12 @@ The thrown trident automatically returns to the player after hitting. Higher lev
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 15 | 65 |
+| 2 | 24 | 74 |
+| 3 | 33 | 83 |
+
 Increases the chance of catching valuable items (treasure) while fishing and reduces junk catches.
 
 ---
@@ -440,6 +565,12 @@ Increases the chance of catching valuable items (treasure) while fishing and red
 | Supported Items | Fishing rod |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 15 | 65 |
+| 2 | 24 | 74 |
+| 3 | 33 | 83 |
 
 Decreases the time it takes for a fish to bite when fishing (-5 seconds per level).
 
@@ -459,6 +590,10 @@ Decreases the time it takes for a fish to bite when fishing (-5 seconds per leve
 | Treasure | Yes |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 25 | 75 |
+
 Repairs the item using collected XP orbs (2 durability per XP point). Mutually exclusive with Infinity.
 
 ---
@@ -476,6 +611,10 @@ Repairs the item using collected XP orbs (2 durability per XP point). Mutually e
 | Supported Items | Crossbow |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 20 | 50 |
 
 Fires 3 projectiles at once (only 1 arrow is consumed). Mutually exclusive with Piercing.
 
@@ -495,6 +634,13 @@ Fires 3 projectiles at once (only 1 arrow is consumed). Mutually exclusive with 
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 1 | 50 |
+| 2 | 11 | 50 |
+| 3 | 21 | 50 |
+| 4 | 31 | 50 |
+
 Arrows pass through entities, hitting up to (level + 1) targets. Mutually exclusive with Multishot.
 
 ---
@@ -512,6 +658,14 @@ Arrows pass through entities, hitting up to (level + 1) targets. Mutually exclus
 | Supported Items | Bow |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 1 | 16 |
+| 2 | 11 | 26 |
+| 3 | 21 | 36 |
+| 4 | 31 | 46 |
+| 5 | 41 | 56 |
 
 Increases arrow damage (+0.5 damage per level, effectively +25% per level above base).
 
@@ -531,6 +685,13 @@ Increases arrow damage (+0.5 damage per level, effectively +25% per level above 
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 3 | 9 |
+| 2 | 9 | 15 |
+| 3 | 15 | 21 |
+| 4 | 21 | 27 |
+
 Reduces damage from projectiles (arrows, fireballs, etc.). Mutually exclusive with other protection enchantments.
 
 ---
@@ -548,6 +709,13 @@ Reduces damage from projectiles (arrows, fireballs, etc.). Mutually exclusive wi
 | Supported Items | Armor |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 1 | 12 |
+| 2 | 12 | 23 |
+| 3 | 23 | 34 |
+| 4 | 34 | 45 |
 
 Reduces damage from most sources. Mutually exclusive with other protection enchantments.
 
@@ -567,6 +735,11 @@ Reduces damage from most sources. Mutually exclusive with other protection encha
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 12 | 37 |
+| 2 | 32 | 57 |
+
 Increases the knockback caused by arrows shot from a bow.
 
 ---
@@ -584,6 +757,12 @@ Increases the knockback caused by arrows shot from a bow.
 | Supported Items | Crossbow |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 12 | 50 |
+| 2 | 32 | 50 |
+| 3 | 52 | 50 ⚠️ |
 
 Reduces crossbow charging time (-0.25 seconds per level).
 
@@ -603,6 +782,12 @@ Reduces crossbow charging time (-0.25 seconds per level).
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 10 | 40 |
+| 2 | 20 | 50 |
+| 3 | 30 | 60 |
+
 Extends underwater breathing time (+15 seconds per level) and reduces drowning damage frequency.
 
 ---
@@ -620,6 +805,12 @@ Extends underwater breathing time (+15 seconds per level) and reduces drowning d
 | Supported Items | Trident |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 17 | 50 |
+| 2 | 24 | 50 |
+| 3 | 31 | 50 |
 
 Propels the player forward when throwing the trident while in water or rain. Higher levels increase launch power (base 1.5 + 0.75 per level above first). Mutually exclusive with Loyalty and Channeling.
 
@@ -639,6 +830,14 @@ Propels the player forward when throwing the trident while in water or rain. Hig
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 1 | 21 |
+| 2 | 12 | 32 |
+| 3 | 23 | 43 |
+| 4 | 34 | 54 |
+| 5 | 45 | 65 |
+
 Increases melee damage (+1 at level 1, then +0.5 per additional level). Mutually exclusive with other damage enchantments.
 
 ---
@@ -656,6 +855,10 @@ Increases melee damage (+1 at level 1, then +0.5 per additional level). Mutually
 | Supported Items | Mining loot tools |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 15 | 65 |
 
 Mined blocks drop themselves (e.g., ores drop ore blocks, grass drops grass blocks). Mutually exclusive with Fortune.
 
@@ -675,6 +878,14 @@ Mined blocks drop themselves (e.g., ores drop ore blocks, grass drops grass bloc
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 5 | 25 |
+| 2 | 13 | 33 |
+| 3 | 21 | 41 |
+| 4 | 29 | 49 |
+| 5 | 37 | 57 |
+
 Deals extra damage (+2.5 per level) to undead mobs (zombies, skeletons, phantoms, withers, etc.). Mutually exclusive with other damage enchantments.
 
 ---
@@ -692,6 +903,12 @@ Deals extra damage (+2.5 per level) to undead mobs (zombies, skeletons, phantoms
 | Supported Items | Boots |
 | Treasure | Yes |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 10 | 25 |
+| 2 | 20 | 35 |
+| 3 | 30 | 45 |
 
 Increases movement speed on soul sand and soul soil. Slowly damages boots durability while active.
 
@@ -711,6 +928,12 @@ Increases movement speed on soul sand and soul soil. Slowly damages boots durabi
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 5 | 20 |
+| 2 | 14 | 29 |
+| 3 | 23 | 38 |
+
 Increases sweep attack damage (ratio scales as level / (level + 1), so 1/2, 2/3, 3/4 of weapon damage at levels 1–3).
 
 ---
@@ -728,6 +951,12 @@ Increases sweep attack damage (ratio scales as level / (level + 1), so 1/2, 2/3,
 | Supported Items | Leggings |
 | Treasure | Yes |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 25 | 75 |
+| 2 | 50 | 100 |
+| 3 | 75 | 125 |
 
 Increases movement speed while sneaking (+15% per level).
 
@@ -747,6 +976,12 @@ Increases movement speed while sneaking (+15% per level).
 | Treasure | No |
 | Curse | No |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 10 | 60 |
+| 2 | 30 | 80 |
+| 3 | 50 | 100 |
+
 Gives a chance (15% × level) to deal 1–4 damage back to attackers on hit, at the cost of extra durability.
 
 ---
@@ -764,6 +999,12 @@ Gives a chance (15% × level) to deal 1–4 damage back to attackers on hit, at 
 | Supported Items | All items with durability |
 | Treasure | No |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 5 | 55 |
+| 2 | 13 | 63 |
+| 3 | 21 | 71 |
 
 Reduces durability loss. For armor, each hit has a `(level)/(level+1)` chance of not consuming durability; for other items, a `1/(level+1)` chance.
 
@@ -783,6 +1024,10 @@ Reduces durability loss. For armor, each hit has a `(level)/(level+1)` chance of
 | Treasure | Yes |
 | Curse | Yes |
 
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 25 | 50 |
+
 The item is destroyed upon the player's death instead of being dropped.
 
 ---
@@ -800,6 +1045,12 @@ The item is destroyed upon the player's death instead of being dropped.
 | Supported Items | Mace |
 | Treasure | Yes |
 | Curse | No |
+
+| Level | Min | Max |
+|:-----:|----:|----:|
+| 1 | 15 | 65 |
+| 2 | 24 | 74 |
+| 3 | 33 | 83 |
 
 When performing a smash attack (falling at least 1.5 blocks), creates a wind burst explosion that launches the attacker upward (knockback multiplier: 1.2 / 1.75 / 2.2 at levels 1–3).
 
