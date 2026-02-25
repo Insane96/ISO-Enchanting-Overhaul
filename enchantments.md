@@ -2,50 +2,50 @@
 
 > Generated from `data/minecraft/enchantment/` — Java Edition 1.21.1
 
-| Enchantment | ID | Max Level | Min Cost | Max Cost | Weight | Treasure | Curse |
-|---|---|:-:|---|---|:-:|:-:|:-:|
-| Aqua Affinity | `minecraft:aqua_affinity` | 1 | `1 + 0*level` | `41 + 0*level` | 2 | | |
-| Bane of Arthropods | `minecraft:bane_of_arthropods` | 5 | `5 + 8*level` | `25 + 8*level` | 5 | | |
-| Binding Curse | `minecraft:binding_curse` | 1 | `25 + 0*level` | `50 + 0*level` | 1 | 💎 | ☠️ |
-| Blast Protection | `minecraft:blast_protection` | 4 | `5 + 8*level` | `13 + 8*level` | 2 | | |
-| Breach | `minecraft:breach` | 4 | `15 + 9*level` | `65 + 9*level` | 2 | | |
-| Channeling | `minecraft:channeling` | 1 | `25 + 0*level` | `50 + 0*level` | 1 | | |
-| Density | `minecraft:density` | 5 | `5 + 8*level` | `25 + 8*level` | 5 | | |
-| Depth Strider | `minecraft:depth_strider` | 3 | `10 + 10*level` | `25 + 10*level` | 2 | | |
-| Efficiency | `minecraft:efficiency` | 5 | `1 + 10*level` | `51 + 10*level` | 10 | | |
-| Feather Falling | `minecraft:feather_falling` | 4 | `5 + 6*level` | `11 + 6*level` | 5 | | |
-| Fire Aspect | `minecraft:fire_aspect` | 2 | `10 + 20*level` | `60 + 20*level` | 2 | | |
-| Fire Protection | `minecraft:fire_protection` | 4 | `10 + 8*level` | `18 + 8*level` | 5 | | |
-| Flame | `minecraft:flame` | 1 | `20 + 0*level` | `50 + 0*level` | 2 | | |
-| Fortune | `minecraft:fortune` | 3 | `15 + 9*level` | `65 + 9*level` | 2 | | |
-| Frost Walker | `minecraft:frost_walker` | 2 | `10 + 10*level` | `25 + 10*level` | 2 | 💎 | |
-| Impaling | `minecraft:impaling` | 5 | `1 + 8*level` | `21 + 8*level` | 2 | | |
-| Infinity | `minecraft:infinity` | 1 | `20 + 0*level` | `50 + 0*level` | 1 | | |
-| Knockback | `minecraft:knockback` | 2 | `5 + 20*level` | `55 + 20*level` | 5 | | |
-| Looting | `minecraft:looting` | 3 | `15 + 9*level` | `65 + 9*level` | 2 | | |
-| Loyalty | `minecraft:loyalty` | 3 | `12 + 7*level` | `50 + 0*level` | 5 | | |
-| Luck of the Sea | `minecraft:luck_of_the_sea` | 3 | `15 + 9*level` | `65 + 9*level` | 2 | | |
-| Lure | `minecraft:lure` | 3 | `15 + 9*level` | `65 + 9*level` | 2 | | |
-| Mending | `minecraft:mending` | 1 | `25 + 25*level` | `75 + 25*level` | 2 | 💎 | |
-| Multishot | `minecraft:multishot` | 1 | `20 + 0*level` | `50 + 0*level` | 2 | | |
-| Piercing | `minecraft:piercing` | 4 | `1 + 10*level` | `50 + 0*level` | 10 | | |
-| Power | `minecraft:power` | 5 | `1 + 10*level` | `16 + 10*level` | 10 | | |
-| Projectile Protection | `minecraft:projectile_protection` | 4 | `3 + 6*level` | `9 + 6*level` | 5 | | |
-| Protection | `minecraft:protection` | 4 | `1 + 11*level` | `12 + 11*level` | 10 | | |
-| Punch | `minecraft:punch` | 2 | `12 + 20*level` | `37 + 20*level` | 2 | | |
-| Quick Charge | `minecraft:quick_charge` | 3 | `12 + 20*level` | `50 + 0*level` | 5 | | |
-| Respiration | `minecraft:respiration` | 3 | `10 + 10*level` | `40 + 10*level` | 2 | | |
-| Riptide | `minecraft:riptide` | 3 | `17 + 7*level` | `50 + 0*level` | 2 | | |
-| Sharpness | `minecraft:sharpness` | 5 | `1 + 11*level` | `21 + 11*level` | 10 | | |
-| Silk Touch | `minecraft:silk_touch` | 1 | `15 + 0*level` | `65 + 0*level` | 1 | | |
-| Smite | `minecraft:smite` | 5 | `5 + 8*level` | `25 + 8*level` | 5 | | |
-| Soul Speed | `minecraft:soul_speed` | 3 | `10 + 10*level` | `25 + 10*level` | 1 | 💎 | |
-| Sweeping Edge | `minecraft:sweeping_edge` | 3 | `5 + 9*level` | `20 + 9*level` | 2 | | |
-| Swift Sneak | `minecraft:swift_sneak` | 3 | `25 + 25*level` | `75 + 25*level` | 1 | 💎 | |
-| Thorns | `minecraft:thorns` | 3 | `10 + 20*level` | `60 + 20*level` | 1 | | |
-| Unbreaking | `minecraft:unbreaking` | 3 | `5 + 8*level` | `55 + 8*level` | 5 | | |
-| Vanishing Curse | `minecraft:vanishing_curse` | 1 | `25 + 0*level` | `50 + 0*level` | 1 | 💎 | ☠️ |
-| Wind Burst | `minecraft:wind_burst` | 3 | `15 + 9*level` | `65 + 9*level` | 2 | 💎 | |
+| Enchantment | ID | Max Level | Min Cost | Max Cost | Weight | Anvil Cost | Treasure | Curse |
+|---|---|:-:|---|---|:-:|:-:|:-:|:-:|
+| Aqua Affinity | `minecraft:aqua_affinity` | 1 | `1 + 0*level` | `41 + 0*level` | 2 | 4 | | |
+| Bane of Arthropods | `minecraft:bane_of_arthropods` | 5 | `5 + 8*level` | `25 + 8*level` | 5 | 2 | | |
+| Binding Curse | `minecraft:binding_curse` | 1 | `25 + 0*level` | `50 + 0*level` | 1 | 8 | 💎 | ☠️ |
+| Blast Protection | `minecraft:blast_protection` | 4 | `5 + 8*level` | `13 + 8*level` | 2 | 4 | | |
+| Breach | `minecraft:breach` | 4 | `15 + 9*level` | `65 + 9*level` | 2 | 4 | | |
+| Channeling | `minecraft:channeling` | 1 | `25 + 0*level` | `50 + 0*level` | 1 | 8 | | |
+| Density | `minecraft:density` | 5 | `5 + 8*level` | `25 + 8*level` | 5 | 2 | | |
+| Depth Strider | `minecraft:depth_strider` | 3 | `10 + 10*level` | `25 + 10*level` | 2 | 4 | | |
+| Efficiency | `minecraft:efficiency` | 5 | `1 + 10*level` | `51 + 10*level` | 10 | 1 | | |
+| Feather Falling | `minecraft:feather_falling` | 4 | `5 + 6*level` | `11 + 6*level` | 5 | 2 | | |
+| Fire Aspect | `minecraft:fire_aspect` | 2 | `10 + 20*level` | `60 + 20*level` | 2 | 4 | | |
+| Fire Protection | `minecraft:fire_protection` | 4 | `10 + 8*level` | `18 + 8*level` | 5 | 2 | | |
+| Flame | `minecraft:flame` | 1 | `20 + 0*level` | `50 + 0*level` | 2 | 4 | | |
+| Fortune | `minecraft:fortune` | 3 | `15 + 9*level` | `65 + 9*level` | 2 | 4 | | |
+| Frost Walker | `minecraft:frost_walker` | 2 | `10 + 10*level` | `25 + 10*level` | 2 | 4 | 💎 | |
+| Impaling | `minecraft:impaling` | 5 | `1 + 8*level` | `21 + 8*level` | 2 | 4 | | |
+| Infinity | `minecraft:infinity` | 1 | `20 + 0*level` | `50 + 0*level` | 1 | 8 | | |
+| Knockback | `minecraft:knockback` | 2 | `5 + 20*level` | `55 + 20*level` | 5 | 2 | | |
+| Looting | `minecraft:looting` | 3 | `15 + 9*level` | `65 + 9*level` | 2 | 4 | | |
+| Loyalty | `minecraft:loyalty` | 3 | `12 + 7*level` | `50 + 0*level` | 5 | 2 | | |
+| Luck of the Sea | `minecraft:luck_of_the_sea` | 3 | `15 + 9*level` | `65 + 9*level` | 2 | 4 | | |
+| Lure | `minecraft:lure` | 3 | `15 + 9*level` | `65 + 9*level` | 2 | 4 | | |
+| Mending | `minecraft:mending` | 1 | `25 + 25*level` | `75 + 25*level` | 2 | 4 | 💎 | |
+| Multishot | `minecraft:multishot` | 1 | `20 + 0*level` | `50 + 0*level` | 2 | 4 | | |
+| Piercing | `minecraft:piercing` | 4 | `1 + 10*level` | `50 + 0*level` | 10 | 1 | | |
+| Power | `minecraft:power` | 5 | `1 + 10*level` | `16 + 10*level` | 10 | 1 | | |
+| Projectile Protection | `minecraft:projectile_protection` | 4 | `3 + 6*level` | `9 + 6*level` | 5 | 2 | | |
+| Protection | `minecraft:protection` | 4 | `1 + 11*level` | `12 + 11*level` | 10 | 1 | | |
+| Punch | `minecraft:punch` | 2 | `12 + 20*level` | `37 + 20*level` | 2 | 4 | | |
+| Quick Charge | `minecraft:quick_charge` | 3 | `12 + 20*level` | `50 + 0*level` | 5 | 2 | | |
+| Respiration | `minecraft:respiration` | 3 | `10 + 10*level` | `40 + 10*level` | 2 | 4 | | |
+| Riptide | `minecraft:riptide` | 3 | `17 + 7*level` | `50 + 0*level` | 2 | 4 | | |
+| Sharpness | `minecraft:sharpness` | 5 | `1 + 11*level` | `21 + 11*level` | 10 | 1 | | |
+| Silk Touch | `minecraft:silk_touch` | 1 | `15 + 0*level` | `65 + 0*level` | 1 | 8 | | |
+| Smite | `minecraft:smite` | 5 | `5 + 8*level` | `25 + 8*level` | 5 | 2 | | |
+| Soul Speed | `minecraft:soul_speed` | 3 | `10 + 10*level` | `25 + 10*level` | 1 | 8 | 💎 | |
+| Sweeping Edge | `minecraft:sweeping_edge` | 3 | `5 + 9*level` | `20 + 9*level` | 2 | 4 | | |
+| Swift Sneak | `minecraft:swift_sneak` | 3 | `25 + 25*level` | `75 + 25*level` | 1 | 8 | 💎 | |
+| Thorns | `minecraft:thorns` | 3 | `10 + 20*level` | `60 + 20*level` | 1 | 8 | | |
+| Unbreaking | `minecraft:unbreaking` | 3 | `5 + 8*level` | `55 + 8*level` | 5 | 2 | | |
+| Vanishing Curse | `minecraft:vanishing_curse` | 1 | `25 + 0*level` | `50 + 0*level` | 1 | 8 | 💎 | ☠️ |
+| Wind Burst | `minecraft:wind_burst` | 3 | `15 + 9*level` | `65 + 9*level` | 2 | 4 | 💎 | |
 
 ---
 
@@ -58,6 +58,7 @@
 | Min Cost | `1 + 0*level` |
 | Max Cost | `41 + 0*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Head armor (helmets) |
 | Treasure | No |
 | Curse | No |
@@ -75,6 +76,7 @@ Increases underwater mining speed to match above-water speed.
 | Min Cost | `5 + 8*level` |
 | Max Cost | `25 + 8*level` |
 | Weight | 5 |
+| Anvil Cost | 2 |
 | Supported Items | Weapons (primary: sword) |
 | Treasure | No |
 | Curse | No |
@@ -92,6 +94,7 @@ Deals extra damage (+2.5 per level) to arthropods (spiders, cave spiders, bees, 
 | Min Cost | `25 + 0*level` |
 | Max Cost | `50 + 0*level` |
 | Weight | 1 |
+| Anvil Cost | 5 |
 | Supported Items | All equippable items |
 | Treasure | Yes |
 | Curse | Yes |
@@ -109,6 +112,7 @@ Prevents the player from removing the cursed armor piece in survival mode.
 | Min Cost | `5 + 8*level` |
 | Max Cost | `13 + 8*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Armor |
 | Treasure | No |
 | Curse | No |
@@ -126,6 +130,7 @@ Reduces explosion damage and knockback. Mutually exclusive with other protection
 | Min Cost | `15 + 9*level` |
 | Max Cost | `65 + 9*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Mace |
 | Treasure | No |
 | Curse | No |
@@ -143,6 +148,7 @@ Reduces the effectiveness of the target's armor when attacking with a mace (-15%
 | Min Cost | `25 + 0*level` |
 | Max Cost | `50 + 0*level` |
 | Weight | 1 |
+| Anvil Cost | 5 |
 | Supported Items | Trident |
 | Treasure | No |
 | Curse | No |
@@ -160,6 +166,7 @@ Summons a lightning bolt when the trident hits an entity during a thunderstorm a
 | Min Cost | `5 + 8*level` |
 | Max Cost | `25 + 8*level` |
 | Weight | 5 |
+| Anvil Cost | 2 |
 | Supported Items | Mace |
 | Treasure | No |
 | Curse | No |
@@ -177,6 +184,7 @@ Increases mace smash damage based on fall distance (+0.5 per level per block fal
 | Min Cost | `10 + 10*level` |
 | Max Cost | `25 + 10*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Boots |
 | Treasure | No |
 | Curse | No |
@@ -194,6 +202,7 @@ Increases movement speed while underwater. Mutually exclusive with Frost Walker.
 | Min Cost | `1 + 10*level` |
 | Max Cost | `51 + 10*level` |
 | Weight | 10 |
+| Anvil Cost | 1 |
 | Supported Items | Mining tools |
 | Treasure | No |
 | Curse | No |
@@ -211,6 +220,7 @@ Increases mining speed. The bonus scales as level² + 1.
 | Min Cost | `5 + 6*level` |
 | Max Cost | `11 + 6*level` |
 | Weight | 5 |
+| Anvil Cost | 2 |
 | Supported Items | Boots |
 | Treasure | No |
 | Curse | No |
@@ -228,6 +238,7 @@ Reduces fall damage taken (+3 protection points per level).
 | Min Cost | `10 + 20*level` |
 | Max Cost | `60 + 20*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Fire aspect weapons (primary: sword) |
 | Treasure | No |
 | Curse | No |
@@ -245,6 +256,7 @@ Sets the target on fire for 4 seconds per level on melee hit.
 | Min Cost | `10 + 8*level` |
 | Max Cost | `18 + 8*level` |
 | Weight | 5 |
+| Anvil Cost | 2 |
 | Supported Items | Armor |
 | Treasure | No |
 | Curse | No |
@@ -262,6 +274,7 @@ Reduces fire damage and shortens burn duration (-15% per level). Mutually exclus
 | Min Cost | `20 + 0*level` |
 | Max Cost | `50 + 0*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Bow |
 | Treasure | No |
 | Curse | No |
@@ -279,6 +292,7 @@ Arrows fired are set ablaze, igniting targets they hit.
 | Min Cost | `15 + 9*level` |
 | Max Cost | `65 + 9*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Mining loot tools |
 | Treasure | No |
 | Curse | No |
@@ -296,6 +310,7 @@ Increases the drop count from blocks such as ores, crops, and gravel. Mutually e
 | Min Cost | `10 + 10*level` |
 | Max Cost | `25 + 10*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Boots |
 | Treasure | Yes |
 | Curse | No |
@@ -313,6 +328,7 @@ Turns water into frosted ice when walked over (radius scales with level) and gra
 | Min Cost | `1 + 8*level` |
 | Max Cost | `21 + 8*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Trident |
 | Treasure | No |
 | Curse | No |
@@ -330,6 +346,7 @@ Deals extra damage (+2.5 per level) to aquatic mobs. Mutually exclusive with oth
 | Min Cost | `20 + 0*level` |
 | Max Cost | `50 + 0*level` |
 | Weight | 1 |
+| Anvil Cost | 5 |
 | Supported Items | Bow |
 | Treasure | No |
 | Curse | No |
@@ -347,6 +364,7 @@ Firing the bow does not consume regular arrows (tipped and spectral arrows are s
 | Min Cost | `5 + 20*level` |
 | Max Cost | `55 + 20*level` |
 | Weight | 5 |
+| Anvil Cost | 2 |
 | Supported Items | Sword |
 | Treasure | No |
 | Curse | No |
@@ -364,6 +382,7 @@ Increases the knockback dealt on melee hits.
 | Min Cost | `15 + 9*level` |
 | Max Cost | `65 + 9*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Sword |
 | Treasure | No |
 | Curse | No |
@@ -381,6 +400,7 @@ Increases the quantity and chance of rare drops from killed mobs, and slightly i
 | Min Cost | `12 + 7*level` |
 | Max Cost | `50 + 0*level` |
 | Weight | 5 |
+| Anvil Cost | 2 |
 | Supported Items | Trident |
 | Treasure | No |
 | Curse | No |
@@ -398,6 +418,7 @@ The thrown trident automatically returns to the player after hitting. Higher lev
 | Min Cost | `15 + 9*level` |
 | Max Cost | `65 + 9*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Fishing rod |
 | Treasure | No |
 | Curse | No |
@@ -415,6 +436,7 @@ Increases the chance of catching valuable items (treasure) while fishing and red
 | Min Cost | `15 + 9*level` |
 | Max Cost | `65 + 9*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Fishing rod |
 | Treasure | No |
 | Curse | No |
@@ -432,6 +454,7 @@ Decreases the time it takes for a fish to bite when fishing (-5 seconds per leve
 | Min Cost | `25 + 25*level` |
 | Max Cost | `75 + 25*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | All items with durability |
 | Treasure | Yes |
 | Curse | No |
@@ -449,6 +472,7 @@ Repairs the item using collected XP orbs (2 durability per XP point). Mutually e
 | Min Cost | `20 + 0*level` |
 | Max Cost | `50 + 0*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Crossbow |
 | Treasure | No |
 | Curse | No |
@@ -466,6 +490,7 @@ Fires 3 projectiles at once (only 1 arrow is consumed). Mutually exclusive with 
 | Min Cost | `1 + 10*level` |
 | Max Cost | `50 + 0*level` |
 | Weight | 10 |
+| Anvil Cost | 1 |
 | Supported Items | Crossbow |
 | Treasure | No |
 | Curse | No |
@@ -483,6 +508,7 @@ Arrows pass through entities, hitting up to (level + 1) targets. Mutually exclus
 | Min Cost | `1 + 10*level` |
 | Max Cost | `16 + 10*level` |
 | Weight | 10 |
+| Anvil Cost | 1 |
 | Supported Items | Bow |
 | Treasure | No |
 | Curse | No |
@@ -500,6 +526,7 @@ Increases arrow damage (+0.5 damage per level, effectively +25% per level above 
 | Min Cost | `3 + 6*level` |
 | Max Cost | `9 + 6*level` |
 | Weight | 5 |
+| Anvil Cost | 2 |
 | Supported Items | Armor |
 | Treasure | No |
 | Curse | No |
@@ -517,6 +544,7 @@ Reduces damage from projectiles (arrows, fireballs, etc.). Mutually exclusive wi
 | Min Cost | `1 + 11*level` |
 | Max Cost | `12 + 11*level` |
 | Weight | 10 |
+| Anvil Cost | 1 |
 | Supported Items | Armor |
 | Treasure | No |
 | Curse | No |
@@ -534,6 +562,7 @@ Reduces damage from most sources. Mutually exclusive with other protection encha
 | Min Cost | `12 + 20*level` |
 | Max Cost | `37 + 20*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Bow |
 | Treasure | No |
 | Curse | No |
@@ -551,6 +580,7 @@ Increases the knockback caused by arrows shot from a bow.
 | Min Cost | `12 + 20*level` |
 | Max Cost | `50 + 0*level` |
 | Weight | 5 |
+| Anvil Cost | 2 |
 | Supported Items | Crossbow |
 | Treasure | No |
 | Curse | No |
@@ -568,6 +598,7 @@ Reduces crossbow charging time (-0.25 seconds per level).
 | Min Cost | `10 + 10*level` |
 | Max Cost | `40 + 10*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Head armor (helmets) |
 | Treasure | No |
 | Curse | No |
@@ -585,6 +616,7 @@ Extends underwater breathing time (+15 seconds per level) and reduces drowning d
 | Min Cost | `17 + 7*level` |
 | Max Cost | `50 + 0*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Trident |
 | Treasure | No |
 | Curse | No |
@@ -602,6 +634,7 @@ Propels the player forward when throwing the trident while in water or rain. Hig
 | Min Cost | `1 + 11*level` |
 | Max Cost | `21 + 11*level` |
 | Weight | 10 |
+| Anvil Cost | 1 |
 | Supported Items | Sharp weapons (primary: sword) |
 | Treasure | No |
 | Curse | No |
@@ -619,6 +652,7 @@ Increases melee damage (+1 at level 1, then +0.5 per additional level). Mutually
 | Min Cost | `15 + 0*level` |
 | Max Cost | `65 + 0*level` |
 | Weight | 1 |
+| Anvil Cost | 5 |
 | Supported Items | Mining loot tools |
 | Treasure | No |
 | Curse | No |
@@ -636,6 +670,7 @@ Mined blocks drop themselves (e.g., ores drop ore blocks, grass drops grass bloc
 | Min Cost | `5 + 8*level` |
 | Max Cost | `25 + 8*level` |
 | Weight | 5 |
+| Anvil Cost | 2 |
 | Supported Items | Weapons (primary: sword) |
 | Treasure | No |
 | Curse | No |
@@ -653,6 +688,7 @@ Deals extra damage (+2.5 per level) to undead mobs (zombies, skeletons, phantoms
 | Min Cost | `10 + 10*level` |
 | Max Cost | `25 + 10*level` |
 | Weight | 1 |
+| Anvil Cost | 5 |
 | Supported Items | Boots |
 | Treasure | Yes |
 | Curse | No |
@@ -670,6 +706,7 @@ Increases movement speed on soul sand and soul soil. Slowly damages boots durabi
 | Min Cost | `5 + 9*level` |
 | Max Cost | `20 + 9*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Sword |
 | Treasure | No |
 | Curse | No |
@@ -687,6 +724,7 @@ Increases sweep attack damage (ratio scales as level / (level + 1), so 1/2, 2/3,
 | Min Cost | `25 + 25*level` |
 | Max Cost | `75 + 25*level` |
 | Weight | 1 |
+| Anvil Cost | 5 |
 | Supported Items | Leggings |
 | Treasure | Yes |
 | Curse | No |
@@ -704,6 +742,7 @@ Increases movement speed while sneaking (+15% per level).
 | Min Cost | `10 + 20*level` |
 | Max Cost | `60 + 20*level` |
 | Weight | 1 |
+| Anvil Cost | 5 |
 | Supported Items | Armor (primary: chestplate) |
 | Treasure | No |
 | Curse | No |
@@ -721,6 +760,7 @@ Gives a chance (15% × level) to deal 1–4 damage back to attackers on hit, at 
 | Min Cost | `5 + 8*level` |
 | Max Cost | `55 + 8*level` |
 | Weight | 5 |
+| Anvil Cost | 2 |
 | Supported Items | All items with durability |
 | Treasure | No |
 | Curse | No |
@@ -738,6 +778,7 @@ Reduces durability loss. For armor, each hit has a `(level)/(level+1)` chance of
 | Min Cost | `25 + 0*level` |
 | Max Cost | `50 + 0*level` |
 | Weight | 1 |
+| Anvil Cost | 5 |
 | Supported Items | All vanishing-eligible items |
 | Treasure | Yes |
 | Curse | Yes |
@@ -755,6 +796,7 @@ The item is destroyed upon the player's death instead of being dropped.
 | Min Cost | `15 + 9*level` |
 | Max Cost | `65 + 9*level` |
 | Weight | 2 |
+| Anvil Cost | 3 |
 | Supported Items | Mace |
 | Treasure | Yes |
 | Curse | No |
