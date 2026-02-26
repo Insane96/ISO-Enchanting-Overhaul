@@ -1,10 +1,10 @@
 * Copper ore can now be mined with a wooden pickaxe
+* Coal ore now requires an iron pickaxe
 
 ## New enchantments
 * 
 
 ## Changes to vanilla enchantments
-
 * All enchantments have the same weight (same chance to be chosen)
 * Protection enchantments (feather falling too)
     * All protection enchantments now have the same cost
