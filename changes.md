@@ -1,3 +1,5 @@
+* Copper ore can now be mined with a wooden pickaxe
+
 ## New enchantments
 * 
 
